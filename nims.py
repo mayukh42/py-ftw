@@ -1,5 +1,4 @@
 # nims.py
-
 import random
 
 def play_nims(pile, max_stones):
