@@ -32,4 +32,4 @@ def factorial(n):
 
 s = 'abcde'
 # print len(subsets(s))==(1<<len(s))
-# print len(permutations(s))==factorial(len(s))
+print len(permutations(s))==factorial(len(s))
